@@ -1,7 +1,7 @@
-## ListsED1
+### ListsED1
 Repository for delivery of ed1 exercises
 
-#How to run
+# How to run
 
 For each c file, run the g++ command on the file directory, example:
   
